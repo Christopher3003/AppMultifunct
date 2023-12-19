@@ -1,0 +1,29 @@
+
+-------------------------------------
+Usuario: ejemplo 
+ Fecha: 10/10/2023 15:47:52 
+ Tipo de operacion: Farenheit a Celsius 
+ Valores de entrada: 90, 
+ Valor de salida: 32,22222222222222
+-------------------------------------
+-------------------------------------
+Usuario: 20221936@itla.edu.do 
+ Fecha: 10/10/2023 17:12:42 
+ Tipo de operacion: Suma 
+ Valores de entrada: 45,60 
+ Valor de salida: 105
+-------------------------------------
+-------------------------------------
+Usuario: 20221936 
+ Fecha: 10/10/2023 18:15:15 
+ Tipo de operacion: Farenheit a Celsius 
+ Valores de entrada: 120, 
+ Valor de salida: 48,888888888888886
+-------------------------------------
+-------------------------------------
+Usuario: kpo 
+ Fecha: 14/10/2023 20:38:40 
+ Tipo de operacion: Suma 
+ Valores de entrada: 14,30 
+ Valor de salida: 44
+-------------------------------------

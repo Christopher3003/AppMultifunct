@@ -1,0 +1,136 @@
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\Models\registros.json
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eldes\source\repos\apis\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\eldes\source\repos\apis\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\Models\registros.json
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eldes\Desktop\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\eldes\Desktop\Api\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\appsettings.json
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\Models\registros.json
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\eldes\Desktop\Api PaginaWeb Multifunc\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\Models\registros.json
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\eldes\Desktop\Proyecto Multifuncional\BACKEND\obj\Debug\net6.0\ref\WebApplication1.dll
